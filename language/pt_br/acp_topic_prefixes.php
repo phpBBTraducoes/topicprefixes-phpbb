@@ -2,10 +2,10 @@
 /**
  *
  * Topic Prefixes extension for the phpBB Forum Software package.
- * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.0-a1] (https://github.com/phpBBTraducoes)
+ * Brazilian Portuguese translation by eunaumtenhoid 2017 [ver 1.0.0] (https://github.com/phpBBTraducoes)
  * @copyright (c) 2016 phpBB Limited <https://www.phpbb.com>
  * @license GNU General Public License, version 2 (GPL-2.0)
- *
+ * 
  */
 
 /**
@@ -28,6 +28,7 @@ $lang = array_merge($lang, array(
 	'TOPIC_PREFIX_TAG'			=> 'Tag do prefixo',
 	'TOPIC_PREFIX_ENABLED'		=> 'Prefixo Ativado',
 	'TOPIC_PREFIXES_EMPTY'		=> 'Não existem prefixos para este fórum.',
+	'TOPIC_PREFIX_PLACEHOLDER'	=> '[Meu Prefixo]'
 
 	'CREATE_TOPIC_PREFIX'			=> 'Crie um novo prefixo de tópico',
 	'DELETE_TOPIC_PREFIX_CONFIRM'	=> 'Tem certeza de que deseja deletar o prefixo do tópico?',
